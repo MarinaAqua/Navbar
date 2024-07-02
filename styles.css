@@ -7,7 +7,7 @@
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --white-color: hsl(0, 0%, 100%);
+  --red-color: hsl(0, 0%, 100%);
   --black-color: hsl(0, 0%, 0%);
 
   /*========== Font and typography ==========*/
