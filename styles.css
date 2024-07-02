@@ -63,7 +63,7 @@ a {
   margin: 0 auto;
   background: red;
   height: 100vh;
-  background-image: url("background.jpg");
+  background-image: var("background.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
