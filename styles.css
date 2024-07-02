@@ -59,10 +59,15 @@ a {
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
-  max-width: 1120px;
-  margin-inline: 1.5rem;
+  max-width: 500px;
+  margin: 0 auto;
+  background: red;
+  height: 100vh;
+  background-image: url("background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
 }
-
 /*=============== HEADER & NAV ===============*/
 .header {
   position: fixed;
